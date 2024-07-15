@@ -1,1 +1,2 @@
-print("Hello Panda")
+print("Lion")
+print("Food Panda")
